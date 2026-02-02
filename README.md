@@ -7,8 +7,7 @@ The project was developed through guided learning and further refined to demonst
 
 Tools & Technologies
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
-
+Python: Pandas
 SQL
 
 Power BI
@@ -19,19 +18,19 @@ Microsoft Excel
 
 Project Files
 
-customer-purchase-pattern-analysis.ipynb – Data cleaning, exploration, and analysis using Python
-
-customer-purchase-pattern-analysis-SQL.sql – SQL queries used to analyze customer and sales data
-
-customer-purchase-pattern-analysis-Dashboard.pbix – Interactive Power BI dashboard
-
-customer-purchase-pattern-analysis.xlsx – Dataset used for analysis
-
-customer-purchase-pattern-analysis.docx – Detailed project documentation
-
-customer-purchase-pattern-analysis.pdf – Summary report of analysis and findings
-
-customer-purchase-pattern-analysis.pptx – Presentation outlining approach and insights
+  -customer-purchase-pattern-analysis.ipynb – Data cleaning, exploration, and analysis using Python
+  
+  -customer-purchase-pattern-analysis-SQL.sql – SQL queries used to analyze customer and sales data
+  
+  -customer-purchase-pattern-analysis-Dashboard.pbix – Interactive Power BI dashboard
+  
+  -customer-purchase-pattern-analysis.xlsx – Dataset used for analysis
+  
+  -customer-purchase-pattern-analysis.docx – Detailed project documentation
+  
+  -customer-purchase-pattern-analysis.pdf – Summary report of analysis and findings
+  
+  -customer-purchase-pattern-analysis.pptx – Presentation outlining approach and insights
 
 Analysis Performed
 
@@ -83,4 +82,4 @@ This project strengthened my foundation in data analysis, SQL, and business inte
 
 Note
 
-This project was developed through guided learning and customized to reflect my understanding of customer purchase pattern analysis and analytical tools.
+-This project was developed through guided learning and customized to reflect my understanding of customer purchase pattern analysis and analytical tools.
